@@ -1,6 +1,6 @@
 [![Dependency Status](https://img.shields.io/david/graphql/graphql-landscape.svg?style=flat-square)](https://david-dm.org/graphql/graphql-landscape) [![Netlify Status](https://api.netlify.com/api/v1/badges/9fe8d885-037d-48ce-8bf9-3bfa54152945/deploy-status)](https://app.netlify.com/sites/graphql-landscape/deploys)
 
-# GraphQL Landscape for cf23 on fosseam !!!
+# GraphQL Landscape for cf23 on fosseam
 
 ![GraphQL Landscape Logo](https://landscape.graphql.org/images/left-logo.svg)
 
